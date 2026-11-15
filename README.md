@@ -2,6 +2,8 @@
 > **Course:** CSE 3292 Web Development Bootcamp  
 > **Brand Name:** FixMate  
 > **Tagline:** *"Your Home, Our Responsibility."*  
+> **Live Production URL:** [https://fix-mate-snowy.vercel.app](https://fix-mate-snowy.vercel.app)  
+> **GitHub Repository:** [https://github.com/furquan-uddin29/FixMate](https://github.com/furquan-uddin29/FixMate)  
 > **Architecture:** Full-Stack Next.js (App Router) + React.js + Tailwind CSS + Supabase (PostgreSQL) + REST API Handlers
 
 ---
