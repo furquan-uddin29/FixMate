@@ -1,6 +1,7 @@
 import './globals.css';
 import { AuthProvider } from '@/lib/auth/AuthContext';
 import DatabaseBanner from '@/components/common/DatabaseBanner';
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata = {
   title: 'FixMate – On-Demand Local Technician & Repair Service Platform',
@@ -17,6 +18,7 @@ export default function RootLayout({ children }) {
             {children}
           </div>
         </AuthProvider>
+        <Analytics />
       </body>
     </html>
   );
